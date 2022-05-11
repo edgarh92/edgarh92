@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/eggpression" target="blank"><img src="https://img.shields.io/twitter/follow/eggpression?logo=twitter&style=for-the-badge" alt="eggpression" /></a> </p>
 
-- 🔭 I’m currently working on **Media Archiving @LinkedIn**
+- 🔭 I’m currently working on **Video Encoding & Media Archiving Automation @LinkedIn**
 
-- 🌱 I’m currently learning **System Design, Azure, working with awesome people**
+- 🌱 I’m currently learning to build **Accessible productivity tools**
 
 - 📫 How to reach me **h.edgar714@gmail.com**
 

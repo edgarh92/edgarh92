@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Video Encoding & Media Archiving Automation @LinkedIn**
 
 - 🌱 I’m currently learning to build **Accessible productivity tools**
-- 💬 Ask me about ** Nutrition, Content Creation, and Self Taught journey**
+- 💬 Ask me about **Nutrition, Content Creation, and Self Taught journey**
 
 - 📫 How to reach me **h.edgar714@gmail.com**
 

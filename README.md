@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Media Archiving @LinkedIn**
 
-- 🌱 I’m currently learning **Azure Batch,**
+- 🌱 I’m currently learning **System Design, Azure, working with awesome people**
 
 - 📫 How to reach me **h.edgar714@gmail.com**
 

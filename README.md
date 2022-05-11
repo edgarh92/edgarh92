@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Video Encoding & Media Archiving Automation @LinkedIn**
 
-- 🌱 I’m currently learning to build **Accessible productivity tools**
+- 🌱 I’m currently learning to build **Accessible productivity tools and services for content ingest**
 - 💬 Ask me about **Nutrition, Content Creation, and Self Taught journey**
 - 🤝 I’m looking for help with **Infrastructure as code technologies, Test-Driven Development (TDD), and Continuous Integration/Continuous Delivery environments**
 - 📫 How to reach me **h.edgar714@gmail.com**

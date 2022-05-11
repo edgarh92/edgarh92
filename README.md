@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning to build **Accessible productivity tools**
 - 💬 Ask me about **Nutrition, Content Creation, and Self Taught journey**
-
+- 🤝 I’m looking for help with **Infrastructure as code technologies, Test-Driven Development (TDD), and Continuous Integration/Continuous Delivery environments**
 - 📫 How to reach me **h.edgar714@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning to build **Accessible productivity tools and services for content ingest**
 - 💬 Ask me about **Nutrition, Content Creation, and Self Taught journey**
-- 🤝 I’m looking for help with **Video Transcoding Automation, Infrastructure as code technologies, Test-Driven Development (TDD), and Continuous Integration/Continuous Delivery environments**
+- 🤝 I’m looking for help with **DevOps, Video Transcoding Automation, Infrastructure as code technologies, Test-Driven Development (TDD), and Continuous Integration/Continuous Delivery environments**
 - 📫 How to reach me **h.edgar714@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edgar Hernandez</h1>
-<h3 align="center">Software Engineer building post production applications and services to help you do video better .</h3>
+<h3 align="center">Python Developer engineering post production applications and services to help you do video better .</h3>
 
 <p align="left"> <a href="https://twitter.com/eggpression" target="blank"><img src="https://img.shields.io/twitter/follow/eggpression?logo=twitter&style=for-the-badge" alt="eggpression" /></a> </p>
 

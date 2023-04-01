@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/eggpression" target="blank"><img src="https://img.shields.io/twitter/follow/eggpression?logo=twitter&style=for-the-badge" alt="eggpression" /></a> </p>
 
-- 🔭 I’m currently working on **Video Encoding & Media Archiving Automation @LinkedIn**
+- 🔭 I’m currently working on **Video Transcoding Encoding & Media Archiving, Publishing Automation @LinkedIn**
 
 - 🌱 I’m currently learning to build **Accessible productivity tools and services for content ingest**
-- 💬 Ask me about **Nutrition, Content Creation, and Self Taught journey**
-- 🤝 I’m contributing to **Infrastructure as Code Technologies, Test-Driven Development (TDD), and Continuous Integration/Continuous Delivery environments,Video Transcoding, and Automation**
+- 💬 Ask me about **FFmpeg, Azure, HDR, HLS, MPEG-DASH**
+- 🤝 I’m contributing to **Infrastructure as Code Technologies, Test-Driven Development (TDD),  and Continuous Integration/Continuous Delivery environments,Video Transcoding, and Automation**
 - 📫 How to reach me **h.edgar714@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Edgar Hernandez</h1>
-<h3 align="center">Senior Video Encoding Technician @ LinkedIn | Python Developer | Media Systems Specialist</h3>
+<h3 align="center">Senior Video Encoding Technician @ LinkedIn | Python Developer | Media Automation Specialist</h3>
 <p align="left"> <a href="https://twitter.com/eggpression" target="blank"><img src="https://img.shields.io/twitter/follow/eggpression?logo=twitter&style=for-the-badge" alt="eggpression" /></a> </p>
-🔭 I’m currently working on Video Transcoding, Encoding, Media Archiving, and Publishing Automation at LinkedIn
+🔭 I’m currently working on Video Transcoding, Encoding, Media Archiving, and Publishing Operations Automation at LinkedIn
 
 🌱 I’m currently learning to build Accessible productivity tools and services for content ingest
 
-💬 Ask me about FFmpeg, Azure, HDR, HLS, MPEG-DASH, Python, and Bash
+💬 Ask me about studio and publishing operations automation. 
 
 🤝 I’m contributing to media replication services, batch video transcoding, video captioning modernization, and productivity media publishing API development. 
 
@@ -18,7 +18,7 @@ March 2021 - Present
 Video Encoding Optimization: Improved HLS performance by 60% through x264 encoder tuning and Telestream cluster resource allocation.
 Media Ingest Tool: Developed a Python and MySQL backend service standardizing video content ingest and distribution, automating transcoding workflows, and increasing QoE by 80%.
 Storage Replication Service: Integrated a media replication service with Python, Bash, Rclone, and SQL, optimizing remote studio workflows.
-Batch Short Form Video Transcoding: Designed a microservice for high-volume video transcoding, enabling batch restoration of media assets from Azure, crucial for launching new content features.
+Batch Short Form Video Transcoding: Designed a microservice for high-volume video transcoding, enabling batch hydration of media assets from storage , crucial for launching new content features.
 Caption Request Service: Modernized video captioning microservices, reducing vendor lock-in and increasing language support.
 Senior Video Encoding Technician 1 @ LinkedIn
 Feb 2021 - March 2021

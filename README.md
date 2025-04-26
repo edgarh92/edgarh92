@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Edgar Hernandez</h1>
-<h3 align="center">Senior Video Encoding Technician @ LinkedIn | Python Developer | Media Automation Specialist</h3>
+<h3 align="center">Staff Workflow Engineer @ LinkedIn | Python Developer | Media Automation Specialist</h3>
 <p align="left"> <a href="https://twitter.com/eggpression" target="blank"><img src="https://img.shields.io/twitter/follow/eggpression?logo=twitter&style=for-the-badge" alt="eggpression" /></a> </p>
 Package well, ship often, and may your wheels never wobble.
 
-🔭 I’m currently working on enterprise media workflows and design including: Video Transcoding, Media Storage Archiving, and Publishing Operations Automation at LinkedIn
+🔭 I’m currently working on media workflows and systems including: Video Transcoding, Media Storage Archiving, and Publishing Operations Automation at LinkedIn
 
 🌱 I’m currently learning to build Accessible productivity tools and services for content ingest
 
-💬 Ask me about studio and publishing operations automation. 
+💬 Ask me about media automation and publishing operations automation. 
 
 🤝 I’m contributing to media replication services, batch video transcoding, video captioning modernization, and productivity media publishing API development. 
 
